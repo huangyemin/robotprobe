@@ -10,5 +10,5 @@ PyQRCode==1.2.1
 requests==2.21.0
 requests-toolbelt==0.9.1
 schedule==0.6.0
-urllib3==1.24.1
+urllib3==1.24.2
 wxpy==0.3.9.8
